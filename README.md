@@ -33,4 +33,5 @@ Repository Contents
 Course Information
 
 Course: Robotics Foundation
+
 Department: Artificial Intelligence and Robotics
