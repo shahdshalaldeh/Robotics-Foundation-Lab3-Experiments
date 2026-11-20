@@ -1,9 +1,9 @@
 Experiment 1: LDR Sensor Readings and Calibration
 
 * Part A – Reading and Calibrating Light Intensity
--  https://wokwi.com/projects/480623079338635265
+  https://wokwi.com/projects/480623079338635265
 * Part B – Averaging LDR Readings
--  https://wokwi.com/projects/480624315640345601
+  https://wokwi.com/projects/480624315640345601
   
 Experiment 2: Threshold-Based Light Detection
 
