@@ -30,7 +30,7 @@ Repository Contents
 * README.md: Project overview and experiment descriptions.
 * Experiments.md: Links to all six experiments.
 
-Course Information
+Course Information :
 
 Course: Robotics Foundation
 
